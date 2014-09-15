@@ -18,7 +18,8 @@ Steps are (from when you got the server)
 		* disk mounting part, same as above
 		* pacstrap part if you want another shell as default
 		* hostname part, change to what you like 
-		* locale part, change what language you want to use. If you use different keymap, please refer archwiki for more information
+		* locale part, change what language you want to use. 
+		  If you use different keymap, please refer archwiki for more information
 		* localtime part, what time you want your server to display
 		* configuring bootloader part, make sure it reflected the partition you make earlier
 		* creating user part. Change onlineUser to what you like 
