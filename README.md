@@ -2,6 +2,7 @@ This repo is for setting up Archlinux on Online.net dedicated server.(Tested thi
 This is modified from jcleneveu/archlinux-autodedibox script because his script are a bit outdated.
 
 Steps are (from when you got the server)
+
 	1. Install debian OS 64bit using console.online.net
 		1a. Set up the partition how you like your server there. you could make
 			* / and swap only	(the rest, 1G)
